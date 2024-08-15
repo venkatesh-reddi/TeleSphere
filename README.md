@@ -4,9 +4,14 @@ The TeleSphere is a Java-based application designed to manage customer details, 
 Features
 
 Customer Management: Add, update, and remove customer details.
+
 Call Tracking: Log and track call records associated with customers.
+
 Plan Management: Manage various subscription plans, including plan details like charges, call rates, and data limits.
+
 Billing System: Generate bills based on call records and the subscribed plan details.
+
+
 Project Structure
 The project is organized into the following packages:
 
